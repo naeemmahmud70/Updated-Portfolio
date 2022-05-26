@@ -1,0 +1,43 @@
+.about {
+    background-color: #1E2749;
+}
+
+.txt-justify {
+    text-align: justify;
+}
+
+.stack-img {
+    width: 110px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.bio-data {
+    color: rgba(255, 255, 255, 0.876);
+}
+
+.f-bio {
+    color: #E9AC04;
+}
+
+.t-img {
+    height: 100px;
+    width: 110px;
+}
+
+.about-image {
+    padding: 50px;
+}
+
+@media(max-width: 320px) {
+    .about-image {
+        padding: 15px;
+    }
+}
+
+.gradient-text {
+    background: -webkit-linear-gradient(180deg, #2F7FEB, #eee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

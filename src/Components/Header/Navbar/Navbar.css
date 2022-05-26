@@ -1,0 +1,23 @@
+.text-color{
+    color: #E9AC04;
+}
+.text-style{
+    color: #fe2701e5;
+    font-weight: bold;
+}
+#brand-icon{
+    width: 35px;
+    margin-left: 7px;
+    margin-right: 10px;
+}
+.li-color{
+    color: white;
+}
+
+.nav-hover{
+    text-align: center;
+}
+.nav-hover :hover{
+    background-color: #E9AC04;
+    border-radius: 4px;
+}
