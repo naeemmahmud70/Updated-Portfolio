@@ -1,0 +1,24 @@
+.service-card{
+    width: 400px;
+    margin: 20px;
+    background: #014074;
+    height: auto;
+    box-shadow: 3px 3px 5px #e9ac04d5;
+}
+.txt-secondary{
+    color: rgba(255, 255, 255, 0.794);
+}
+
+@media(min-width: 1441px){
+    .service-card{
+        margin: 2.5rem;
+    }
+}
+
+@media(max-width: 520px){
+    .service-card{
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 30px;
+    }
+}

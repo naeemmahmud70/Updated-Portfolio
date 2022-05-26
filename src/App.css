@@ -4,10 +4,17 @@
   font-family: 'Inter', sans-serif;
   font-family: 'Roboto', sans-serif;
 }
-.bg-color{
+
+.bg-color {
   background-color: #1E2749;
 }
 
-.bgss-color{
+.bgss-color {
   background-color: #203170d5;
+}
+
+@media(min-width: 1441px) {
+  .Max-width {
+    max-width: 90%;
+  }
 }

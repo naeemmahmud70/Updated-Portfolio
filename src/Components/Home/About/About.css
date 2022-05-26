@@ -41,3 +41,8 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.fws-bold {
+    font-weight: bold;
+    padding-right: 5px;
+}

@@ -4,6 +4,8 @@ import Navbar from "./Components/Header/Navbar/Navbar";
 import MainHeader from "./Components/Header/MainHeader/MainHeader";
 import About from "./Components/Home/About/About";
 import Skills from "./Components/Home/Skills/Skills";
+import Services from "./Components/Home/Services/Services";
+import Project from "./Components/Home/Projects/Project";
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
       <MainHeader></MainHeader>
       <About></About>
       <Skills></Skills>
+      <Services></Services>
+      <Project></Project>
     </div>
   );
 }
