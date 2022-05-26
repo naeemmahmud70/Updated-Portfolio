@@ -58,7 +58,7 @@ const Skills = () => {
           <h5>React</h5>
           <ProgressBar height="17px" bgColor="#33ff47" completed={90} />
         </div>
-        <div className="text-white">
+        <div className="text-white mt-5">
           <h3 className="text-color fw-bold">Backend</h3>
           <hr />
         </div>

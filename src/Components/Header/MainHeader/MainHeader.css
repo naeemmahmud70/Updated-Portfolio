@@ -37,3 +37,6 @@
   .top-wave{
       height: 5px;
   }
+  #wave-padding{
+      padding-left: -20px;
+  }

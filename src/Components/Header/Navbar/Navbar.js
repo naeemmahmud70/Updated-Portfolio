@@ -32,7 +32,7 @@ const Navbar = () => {
           <ul class="navbar-nav ms-auto">
             <li class="nav-item mx-4 fw-bold nav-hover ">
               <a class="nav-link text-white" href="#home">
-                <FontAwesomeIcon className="text-white" icon={faHome} /> About
+                <FontAwesomeIcon className="text-white" icon={faHome} /> Home
               </a>
             </li>
             <li class="nav-item mx-4  fw-bold nav-hover">

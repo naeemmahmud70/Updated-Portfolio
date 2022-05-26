@@ -1,0 +1,10 @@
+.footer-icon-style img{
+    width: 50px;
+    margin-left: 25px;
+}
+
+@media only screen and (max-width: 520px) {
+    .footer-icon-style img{
+        width: 35px;
+    }
+  }

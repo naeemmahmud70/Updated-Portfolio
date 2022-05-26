@@ -23,8 +23,8 @@ const MainHeader = () => {
 
   return (
     <div id="home"className="bg-color">
-       <div className="top-wave">
-         <Wave fill="#203170d5" mask="url(#mask)" className="wave-height">
+       <div className="top-wave row">
+         <Wave fill="#203170d5" mask="url(#mask)" className="wave-height" id="wave-padding">
             <defs>
               <linearGradient id="gradient" gradientTransform="rotate(90)">
                 <stop offset="0" stopColor="white" />
@@ -83,7 +83,7 @@ const MainHeader = () => {
         </div>
       </div>
 
-      <div className="">
+      <div className="row">
          <Wave fill="#203170d5" mask="url(#mask)" className="wave-height">
             <defs>
               <linearGradient id="gradient" gradientTransform="rotate(90)">

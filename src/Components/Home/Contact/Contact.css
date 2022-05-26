@@ -1,0 +1,18 @@
+.form-bg{
+    background: linear-gradient(180deg, black, #1E2749), url(../../../images//bg1.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 7px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    #contact{
+        padding: 20px;
+    }
+  }
+  @media only screen and (min-width: 769px) {
+    #contact{
+        padding: 50px;
+    }
+  }
