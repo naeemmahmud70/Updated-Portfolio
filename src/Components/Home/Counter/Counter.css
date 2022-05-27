@@ -1,0 +1,19 @@
+.counter {
+    background-color: #014074;
+    margin-top: 5.5rem;
+    margin-bottom: 3.5rem;
+}
+.counter-div{
+    height: 220px;
+}
+.counter-shadow{
+    box-shadow: 3px 3px 5px 3px rgba(255, 255, 255, 0.669);
+    padding: 20px;
+}
+.text-counter{
+    color: rgba(255, 255, 255, 0.773);
+}
+.Font-size{
+    font-size: 30px;
+    padding-bottom: 5px;
+}

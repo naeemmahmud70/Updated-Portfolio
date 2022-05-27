@@ -60,7 +60,7 @@ const About = () => {
                   <span className="fws-bold">
                     <FontAwesomeIcon className="f-bio" icon={faHistory} /> Age:
                   </span>
-                  20
+                  22
                 </h6>
                 <h6>
                   <span className="fws-bold">
